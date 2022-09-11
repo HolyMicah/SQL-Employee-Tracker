@@ -19,3 +19,7 @@ INSERT INTO employees (first_name, last_name, role_id, manager_id)
 VALUES ("Morgan", "Freeman", 1, null),
        ("Edris", "Elbra", 2, null),
        ("Margot", "Robbie", 3, null)
+
+SELECT * FROM departments;
+SELECT * FROM roles;
+SELECT * FROM employees;
